@@ -1,4 +1,3 @@
-# Dependabot Demo Repository
+# Hello World
 
-This repo contains some projects with outdated dependencies. Fork it to try out
-Dependabot!
+
